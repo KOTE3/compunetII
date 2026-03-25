@@ -1,11 +1,14 @@
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\controller\DeliveryController.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\controller\DroneController.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\DemoApplication.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\model\Delivery.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\model\Drone.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\model\DroneEvent.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\model\DronePosition.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\repository\IDeliveryRepository.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\repository\IDroneEventRepository.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\repository\IDronePositionRepository.java
-C:\Users\USER\Desktop\Semestre 6\Compunet 2\SEMANA 7\pre-parcial-jpa-Giuseppe1r\src\main\java\com\example\demo\ServletInitializer.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\controller\WorldCupController.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\Club.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\Country.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\Match.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\Player.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\PlayerClub.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\entity\PlayerClubId.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\IntroSpringBootApplication.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\repository\ClubRepository.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\repository\CountryRepository.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\repository\MatchRepository.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\repository\PlayerClubRepository.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\repository\PlayerRepository.java
+C:\Users\USER\Desktop\PARCIALWILDER\src\main\java\edu\co\icesi\introspringboot\ServletInitializer.java
