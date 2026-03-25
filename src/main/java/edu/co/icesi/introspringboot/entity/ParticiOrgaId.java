@@ -12,7 +12,7 @@ import lombok.Data;
 @NoArgsConstructor
 @Data
 @Embeddable
-public class PlayerClubId implements Serializable {
+public class ParticiOrgaId implements Serializable {
 
     @Column(name = "player_id")
     private Integer playerId;

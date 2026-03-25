@@ -12,22 +12,22 @@ import lombok.Data;
 @NoArgsConstructor
 @Data
 @Entity(name = "player_club")
-public class PlayerClub {
+public class ParticipanteOrga {
 
     @EmbeddedId
-    private PlayerClubId id;
+    private ParticiOrgaId id;
 
     @ManyToOne
     @JsonIgnore
     @MapsId("playerId")
     @JoinColumn(name = "player_id")
-    private Player player;
+    private Participante player;
 
     @ManyToOne
     @JsonIgnore
     @MapsId("clubId")
     @JoinColumn(name = "club_id")
-    private Club club;
+    private Organizacion club;
 
     @Column(name = "start_date")
     private LocalDate startDate;

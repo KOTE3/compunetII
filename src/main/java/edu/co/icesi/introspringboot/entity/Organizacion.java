@@ -19,22 +19,13 @@ import lombok.Data;
 @NoArgsConstructor
 @Data
 @Entity(name = "club")
-public class Club {
+public class Organizacion {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Integer id;
 
-    private String name;
-    private String city;
-    private LocalDate founded;
-
-    @ManyToOne
-    @JsonIgnore
-    @JoinColumn(name = "country_id")
-    private Country country;
-
     
     @OneToMany(mappedBy = "club")
-    private List<PlayerClub> playerClubs;
+    private List<ParticipanteOrga> playerClubs;
 }
